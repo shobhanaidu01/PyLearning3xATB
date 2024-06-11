@@ -10,3 +10,5 @@ x, y, z = 70, 90, 45
 print(x + y - z)
 
 print(x + y + a + b - c)
+
+print(type("age"))
